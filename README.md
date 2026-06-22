@@ -1,18 +1,6 @@
 # Hey, I'm Gokila K 
 
-**Full Stack Developer** · Next.js · FastAPI · PostgreSQL
-
 [LinkedIn](https://www.linkedin.com/in/gokila1/) • [Portfolio](https://gokila-k2593.github.io/portfolio/) • [Email](mailto:gokilakannan2003@gmail.com)
-
-
-###  About Me
-
--  Full Stack Developer at **Wizi Technologies, Nagercoil**
--  B.E. CSE — University College of Engineering, Nagercoil (CGPA: 8.0)
--  I build production-ready web apps with clean architecture
--  Currently deepening knowledge in **system design & scalable APIs**
--  Based in Kanyakumari, Tamil Nadu
-
 
 ###  Tech Stack
 
